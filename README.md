@@ -1,4 +1,7 @@
 # Internal_V3.7-Fortnite-Assistant
+
+# PASSWORD - 2026
+
 Internal_V3.7 — a Professional Gameplay Assistant for Fortnite
 
 Internal_V3.7 is a private, premium-grade performance assistant designed for players who want deeper control, clearer decision-making, and consistent improvement in Fortnite. Positioned as a high-end gameplay analyzer and optimization overlay, it combines intelligent assistance, real-time visual insights, and refined interaction tools to help you perform at your best in both Battle Royale and Zero Build modes.
