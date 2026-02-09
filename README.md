@@ -1,5 +1,5 @@
 # Internal_V3.7-Fortnite-Assistant
-
+# ‼️ Be sure to extract the archive before use
 # PASSWORD - 2026
 
 Internal_V3.7 — a Professional Gameplay Assistant for Fortnite
